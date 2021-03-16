@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(233, 15, 15);
+    height: 1000px;
+}
+.box{
+   opacity: 0;
+   
+    height: 100px;
+    width: 1000px;
+    color: aliceblue;
+    background-color: rgb(8, 8, 8);
+}
+.scroll-active{
+    opacity: 1;
+    margin-left: 300px;
+    
+    transition: 2s;
+}
+.cub{
+    height: 100px;
+}
+.v{
+    height: 300px;
+}
